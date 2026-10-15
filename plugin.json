@@ -1,0 +1,7 @@
+{
+  "id": "agent-diagnostics",
+  "name": "Agent Diagnostics",
+  "sourceRepository": "https://github.com/GoblinRules/ecpa-plugins",
+  "sourcePath": "plugins/agent-diagnostics",
+  "registry": "https://raw.githubusercontent.com/GoblinRules/ecpa-plugins/master/registry.json"
+}
